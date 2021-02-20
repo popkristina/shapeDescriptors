@@ -1,3 +1,1 @@
-### Shape Descriptors
-
 Python + OpenCV
